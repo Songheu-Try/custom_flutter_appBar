@@ -1,6 +1,9 @@
 # custom_appbar
 
-A new Flutter project.
+My Custom AppBar - Flutter project.
+
+![Alt Text]([image-url](https://github.com/Songheu-Try/custom_flutter_appBar/blob/3d39cfb90b27b56d7f65deddd39b0ee5ed386fc6/Screenshot_2025_11_19_15_12_26_78_ca6e024b08d9305e04ccf63fc3b85bcb.jpg))
+
 
 ## Getting Started
 
